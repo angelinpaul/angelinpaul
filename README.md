@@ -81,14 +81,14 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=angelin-dcosta&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelin-dcosta&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=angelinpaul&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelinpaul&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=angelin-dcosta&label=Profile%20Views&color=blueviolet&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=angelinpaul&label=Profile%20Views&color=blueviolet&style=flat-square" />
 </p>
 
 <p align="center">✨ <i>Immediately available for full-time roles in Chennai or remotely.</i> ✨</p>
